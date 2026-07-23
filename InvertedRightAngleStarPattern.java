@@ -2,8 +2,8 @@
 Question: Inverted Right Angle Star Pattern
 
 Logic:
-- Outer loop decides the row.
-- Inner loop prints stars.
+- Outer loop decides the row. decreasing (i)
+- Inner loop prints stars.increaisng (j)
 - Every new row has one less star than the previous row.
 */
 import java.util.*;
