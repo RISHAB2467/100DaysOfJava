@@ -1,5 +1,5 @@
 class Solution {
-    public int singleNumber(int[] nums) {
+    public int git add .(int[] nums) {
         int result = 0;
 
         for (int num : nums) {
